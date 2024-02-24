@@ -1,6 +1,7 @@
 All my projects for the Udacity Self Driving Car Engineer Nanodegree
 
 Sensor Fusion
+
 ![ezgif com-crop](https://github.com/Vinayak-D/UdacitySDCProjects/assets/56367517/09c9f1c9-76fb-4a17-84a8-1c1a9c794c73)
 
 Localization
